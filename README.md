@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**punpom/punpom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lucas! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 About Me
+I'm a student and a web3 front-end developer from France.
+I learn day by day to be an actor of tomorrow's world. ✨
+
+I haven't posted many repositories yet because I didn't use Github before.
+
+
+
+
+### 🛠 Skills
+I do:
+React, Javascript, HTML, CSS, Python, Solidity
+
+I want to learn:
+ThreeJS, GraphQL
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrilho-gomes-09491b214/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cowgaze)
