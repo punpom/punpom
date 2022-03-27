@@ -17,7 +17,7 @@ I do:
 React, Javascript, HTML, CSS, Python, Solidity
 
 I want to learn:
-ThreeJS, GraphQL
+ThreeJS, GraphQL, Redux, NextJS, TailwindCSS
 
 
 ## 🔗 Links
