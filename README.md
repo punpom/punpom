@@ -14,10 +14,10 @@ I haven't posted many repositories yet because I didn't use Github before.
 
 ### 🛠 Skills
 I do:
-React, Javascript, HTML, CSS, Python, Solidity
+React, Javascript, HTML, CSS, Python, Solidity, NextJS
 
 I want to learn:
-ThreeJS, GraphQL, Redux, NextJS, TailwindCSS
+ThreeJS, GraphQL, Redux, TailwindCSS
 
 
 ## 🔗 Links
