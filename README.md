@@ -14,7 +14,7 @@ I haven't posted many repositories yet because I didn't use Github before.
 
 ### 🛠 Skills
 I do:
-React, Javascript, HTML, CSS, Python, Solidity, NextJS, TailwindCSS, Sonic Pi
+React, Javascript, HTML, CSS, Python, Solidity, NextJS, TailwindCSS, SASS, Sonic Pi
 
 I want to learn:
 ThreeJS, GraphQL, Redux
